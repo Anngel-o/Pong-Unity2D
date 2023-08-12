@@ -1,2 +1,2 @@
 # Pong-Unity
-Desarrollando un juego 2d versión pong.
+Desarrollando un pong en Unity 2D.
